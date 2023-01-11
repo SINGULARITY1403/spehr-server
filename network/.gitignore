@@ -1,0 +1,10 @@
+/channel-artifacts/*.tx
+/channel-artifacts/*.block
+/ledgers
+/ledgers-backup
+/channel-artifacts/*.json
+organizations/ordererOrganizations/*
+organizations/peerOrganizations/*
+system-genesis-block/*
+*.tar.gz
+log.txt
